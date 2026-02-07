@@ -1,10 +1,10 @@
-# 🏨 Wanderlust – Online Accommodation Booking Platform
+# Wanderlust – Online Accommodation Booking Platform
 
 Wanderlust is a full-stack web application that allows users to explore, list, and book accommodations. The platform focuses on secure authentication, clean database design, and scalable backend architecture.
 
 ---
 
-## 🚀 Features
+## Features
 
 - User authentication and authorization (login/signup)
 - Create, read, update, and delete accommodation listings
@@ -15,7 +15,7 @@ Wanderlust is a full-stack web application that allows users to explore, list, a
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 
 **Frontend**
 - EJS
@@ -44,7 +44,7 @@ Wanderlust is a full-stack web application that allows users to explore, list, a
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 Wanderlust/  
 │── models/ # Mongoose schemas  
 │── routes/ # Application routes  
